@@ -18,7 +18,7 @@ border-color:#ff6961;
   transform:translatey(-58px) translatex(150px);
 }
 .dire{
-  transform:translatex(400px) translatey(-118px);
+  transform:translatex(380px) translatey(-118px);
 }
 .img{
   height:190px;
@@ -47,4 +47,10 @@ border-color:#ff6961;
 }
 .esp{
   margin-top:50px;
+}
+.inc{
+  padding-top:50px;
+}
+a{
+  text-decoration:none;
 }
