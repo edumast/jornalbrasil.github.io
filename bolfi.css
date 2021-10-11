@@ -1,0 +1,22 @@
+.cub{
+  padding:50px;
+background:red;
+  border-style:outset;
+border-width:10px;
+border-color:#be2444;
+}
+.mat{
+  padding:50px;
+background:#c40233;
+  border-style:outset;
+border-width:10px;
+border-color:#ff0000;
+}
+.imgdn{
+border-radius:20%;
+margin-right:50px;
+height:850px;
+width:850px;
+margin-top:100px;
+
+}
