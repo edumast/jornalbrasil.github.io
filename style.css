@@ -1,0 +1,50 @@
+.vermelho{
+  color:white;
+}
+@keyframes rot{
+0%{transform:rotatey(0deg);}
+100%{transform:rotatey(10000deg);}
+  
+}
+.cubo{
+  background:#ff0000;
+  height:90px;
+width:850px;
+border-style:outset;
+border-width:5px;
+border-color:#ff6961;
+}
+.dir{
+  transform:translatey(-58px) translatex(150px);
+}
+.dire{
+  transform:translatex(400px) translatey(-200);
+}
+.img{
+  height:190px;
+  width:320px;
+  border-radius:10%;
+}
+.linha{
+  height:5px;
+  width:900px;
+  background:black;
+  transform:translatey(-70px) translatex(-10px);
+}
+.nt{
+  border-radius:10%;
+  background-color:blueviolet;
+  padding:50px;
+  padding-bottom:150px;
+  height:190px;
+  width:320px;
+}
+.fg{
+  font-size:50px;
+}
+.txc{
+  color:white;
+}
+.esp{
+  margin-top:50px;
+}
