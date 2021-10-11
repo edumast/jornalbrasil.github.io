@@ -18,7 +18,7 @@ border-color:#ff6961;
   transform:translatey(-58px) translatex(150px);
 }
 .dire{
-  transform:translatex(400px) translatey(-200);
+  transform:translatex(400px) translatey(-118px);
 }
 .img{
   height:190px;
@@ -29,7 +29,7 @@ border-color:#ff6961;
   height:5px;
   width:900px;
   background:black;
-  transform:translatey(-70px) translatex(-10px);
+  transform:translatey(-120px) translatex(-10px);
 }
 .nt{
   border-radius:10%;
